@@ -81,6 +81,7 @@ export default function Home({allPostsData, allApiData}) {
           ))}
         </ul>
       </section>
+      
 
       {/* Here are the API links */}
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
