@@ -9,6 +9,7 @@ export default function Custom404() {
         <h1> 404 - Page not found bitch</h1>
         <Image
             src="/images/404.gif"
+            alt="404 gif"
             width={1000}
             height={1000}
         />
